@@ -14,7 +14,7 @@ When a User runs the app from the CLI a promt with a "Enter your text:" pops up,
 3. ruby enter_text.rb
     -> enter your text (ex: 'The quick brown')
     -> press ENTER/RETURN
-    -> results will pop up (ex:"the quick" 2, "quick brown" 1 )
+    -> results will pop up (ex:"the quick" 1, "quick brown" 1)
 4. rspec tests/test_bigramproblem.rb
 
 

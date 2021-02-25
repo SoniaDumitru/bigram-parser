@@ -1,5 +1,5 @@
 # Task: 
-Create an application that can take as input any text file and output a histogram of the bigrams in the text. Description: A bigram is any two adjacent words in the text disregarding case and punctuation. A histogram is the count of how many times that particular bigram occurred in the text.
+Create an application that can take as input any text and outputs a histogram of the bigrams in the text. Description: A bigram is any two adjacent words in the text disregarding case and punctuation. A histogram is the count of how many times that particular bigram occurred in the text.
 
 # Solution for Bigram Parsing Problem:
 

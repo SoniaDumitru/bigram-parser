@@ -1,12 +1,13 @@
-Task: Create an application that can take as input any text file and output a histogram of the bigrams in the text. Description: A bigram is any two adjacent words in the text disregarding case and punctuation. A histogram is the count of how many times that particular bigram occurred in the text.
+# Task: 
+Create an application that can take as input any text file and output a histogram of the bigrams in the text. Description: A bigram is any two adjacent words in the text disregarding case and punctuation. A histogram is the count of how many times that particular bigram occurred in the text.
 
-Solution for Bigram Parsing Problem:
+# Solution for Bigram Parsing Problem:
 
 When a User runs the app from the CLI a promt with a "Enter your text:" pops up, after the text is entered the histogram is generated and it shows how many times that particular bigram occurred in the text.
 
-## Programming Language Used: Ruby
+# Programming Language Used: Ruby
 
-## To run the app and the tests please follow these steps:
+# To run the app and the tests please follow these steps:
 
 1. cd into bigram_problem_gohealth
 2. bundle install
